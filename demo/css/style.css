@@ -1,0 +1,83 @@
+body{
+    margin-top:170px;
+    font-size:16px;
+}
+#showcase{
+    margin-top:170px;
+    font-size:20px;
+
+}
+#showcase h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.navbar-fault{
+    background:#ffffff;
+    border:0;
+
+
+}
+.navbar-brand{
+    font-size:20px;
+    color: #000000 !important;
+    font-weight: bold;
+}
+#showcase img{
+    width: 90%;
+    margin-left:60px ;
+}
+#showcase .showcase-right{
+margin-top: 70px;
+}
+ #showcase .btn{
+     margin-top: 20px;
+     align-content: center;
+     margin-left: 20px;
+ }
+ #testmonial{
+     margin-top: 100px;
+     background: #f1f1f1;
+     padding: 50px 0 30px 0;
+     text-align: center;
+ }
+ #testmonial p{
+     font-size: 20px;
+     font-family: Arial;
+
+ }
+ #testmonial p.customer{
+     font-size: 20px;
+     color: #666;
+ }
+ #info1{
+     margin-top: 20px;
+ }
+ #info1 .info-right{
+     padding-top: 119px;
+ }
+ #info1 img{
+     margin-bottom: 20px;
+ }
+#info1 p {
+    font-size: 18px;
+    font-family: Arial;
+}
+#info2 p {
+    font-size: 18px;
+    font-family: Arial;
+}
+#info2 {
+    margin: 20px 0 60px 0;
+}
+#contact{
+background:url(../img/image3.png);
+   blackground-size:100%;
+    padding: 40px;
+    color: #ffffff;
+    border-top: #333333 7px solid;
+    border-bottom: #333333 7px solid;
+}
+footer{
+    padding: 30px;
+}
